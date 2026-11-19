@@ -68,3 +68,21 @@ section{border-top:1px solid var(--line)}section.hero{border-top:0}
 .family{color:var(--muted);font-size:15px}
 @media(max-width:900px){.hero .wrap{grid-template-columns:1fr}.grid,.stats{grid-template-columns:1fr 1fr}.get{grid-template-columns:1fr}}
 @media(max-width:520px){.hero h1{font-size:31px}h2{font-size:24px}.lead{font-size:17px}.grid{grid-template-columns:1fr}.wrap{padding:32px 16px}header.nav .wrap{padding:10px 16px}.qs{grid-template-columns:1fr}}
+/* 2026-11-19 identity (QuizApp docs/design-identity-2026-11.md, Option 0): the same look as the apps and the other
+   Basics sites. Fraunces headings (self-hosted, SIL OFL in assets/fonts), sentence-case labels, solid buttons with
+   small corners, open rows and rules in place of boxed cards, no glow. */
+@font-face{font-family:'Fraunces';font-style:normal;font-weight:600;font-display:swap;src:url(/assets/fonts/Fraunces_600SemiBold.ttf) format('truetype')}
+@font-face{font-family:'Fraunces';font-style:normal;font-weight:700;font-display:swap;src:url(/assets/fonts/Fraunces_700Bold.ttf) format('truetype')}
+h1,h2,h3,header.nav .brand{font-family:'Fraunces',Georgia,'Times New Roman',serif}
+h1{font-weight:700;letter-spacing:-.02em}h2,h3{font-weight:600;letter-spacing:-.01em}
+header.nav .brand{font-weight:600;font-size:19px;letter-spacing:0}
+.hero{background:none}
+.eyebrow,.try .tryhead,.q .qmeta,.exam .tag{text-transform:none;letter-spacing:0;font-size:14px;font-weight:600}
+.btn,header.nav nav a.cta{border-radius:8px}.exam .tag{border-radius:6px}
+.stats{gap:0}.stat{background:none;border:0;border-left:1px solid var(--line);border-radius:0;padding:4px 20px}
+.stats .stat:first-child{border-left:0;padding-left:0}.stat b{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:34px;line-height:1.1}
+@media(max-width:900px){.stats .stat:nth-child(odd){border-left:0;padding-left:0}.stats{row-gap:18px}}
+.feature{background:none;border:0;border-top:1px solid var(--line);border-radius:0;padding:18px 0 0}
+.feature .icon{background:none;width:auto;height:auto;justify-content:start;margin:0 0 6px}
+.card{border-radius:12px}
+.try{border-radius:12px;box-shadow:none}
