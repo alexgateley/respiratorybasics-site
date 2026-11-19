@@ -86,3 +86,8 @@ header.nav .brand{font-weight:600;font-size:19px;letter-spacing:0}
 .feature .icon{background:none;width:auto;height:auto;justify-content:start;margin:0 0 6px}
 .card{border-radius:12px}
 .try{border-radius:12px;box-shadow:none}
+/* Light, as the apps (Alex, 2026-11-19: "all the sites to be default light theme") */
+:root{color-scheme:light;--bg:#F6F8FA;--card:#FFFFFF;--line:#DDE3EA;--accent:#166534;--glow:transparent;--text:#0F1A2A;--muted:#55606E;--ok:#047857;--no:#B91C1C}
+header.nav{background:color-mix(in srgb,var(--bg) 92%,transparent)}
+header.nav nav a.cta,.btn.primary{color:#FFFFFF}
+.btn.ghost{background:var(--card)}
