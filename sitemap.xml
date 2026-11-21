@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://respiratorybasics.com/</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://respiratorybasics.com/support.html</loc><lastmod>2026-11-16</lastmod></url>
-  <url><loc>https://respiratorybasics.com/privacy.html</loc><lastmod>2026-11-16</lastmod></url>
-  <url><loc>https://respiratorybasics.com/accessibility.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://respiratorybasics.com/accessibility.html</loc></url>
+  <url><loc>https://respiratorybasics.com/</loc></url>
+  <url><loc>https://respiratorybasics.com/privacy.html</loc></url>
+  <url><loc>https://respiratorybasics.com/support.html</loc></url>
+  <url><loc>https://respiratorybasics.com/app/</loc></url>
+  <url><loc>https://respiratorybasics.com/sheets/</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://respiratorybasics.com/practice/</loc></url>
+  <url><loc>https://respiratorybasics.com/practice/nbrc-rte.html</loc></url>
+  <url><loc>https://respiratorybasics.com/practice/acls.html</loc></url>
+  <url><loc>https://respiratorybasics.com/practice-questions/</loc></url>
+  <url><loc>https://respiratorybasics.com/practice-questions/pfts-oxygen-delivery.html</loc></url>
+  <url><loc>https://respiratorybasics.com/practice-questions/airway-clearance.html</loc></url>
+  <url><loc>https://respiratorybasics.com/practice-questions/sleep-chronic-lung-care.html</loc></url>
+  <url><loc>https://respiratorybasics.com/practice-questions/equipment-patient-data.html</loc></url>
+  <url><loc>https://respiratorybasics.com/practice-questions/neonatal-pediatric.html</loc></url>
+  <url><loc>https://respiratorybasics.com/practice-questions/aerosol-humidity.html</loc></url>
+  <url><loc>https://respiratorybasics.com/practice-questions/noninvasive-ventilation.html</loc></url>
+  <url><loc>https://respiratorybasics.com/practice-questions/ventilator-liberation.html</loc></url>
+  <url><loc>https://respiratorybasics.com/practice-questions/asthma-copd.html</loc></url>
+  <url><loc>https://respiratorybasics.com/practice-questions/patient-data.html</loc></url>
+  <url><loc>https://respiratorybasics.com/practice-questions/devices-safety.html</loc></url>
+  <url><loc>https://respiratorybasics.com/practice-questions/interventions.html</loc></url>
+  <url><loc>https://respiratorybasics.com/reference/</loc></url>
+  <url><loc>https://respiratorybasics.com/drugs/</loc></url>
+  <url><loc>https://respiratorybasics.com/calculators/</loc></url>
+  <url><loc>https://respiratorybasics.com/algorithms/</loc></url>
+  <url><loc>https://respiratorybasics.com/labs/</loc></url>
+  <url><loc>https://respiratorybasics.com/cards/</loc></url>
 </urlset>

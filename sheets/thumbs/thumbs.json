@@ -1,0 +1,380 @@
+{
+ "abg-steps": {
+  "hash": "1a3dd5d521e21e76",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "acls-algorithms": {
+  "hash": "575a70c508a25d15",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "acs-stemi": {
+  "hash": "7650706aa2ad193d",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "ards": {
+  "hash": "f32e04494f631710",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "asthma-copd": {
+  "hash": "08432a91f69ef06c",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "bls-cpr-choking": {
+  "hash": "5bdaf517aace43e2",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "capnography": {
+  "hash": "84638a2da5b32987",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "chest-tubes": {
+  "hash": "845dee0d3461cf1d",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "electrolytes": {
+  "hash": "741f6e178e8d581c",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "end-of-life": {
+  "hash": "e7916fa2c44351c6",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "environmental-emergencies": {
+  "hash": "4521951016d40a40",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "guide-acls": {
+  "hash": "92a09469b93badca",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "guide-nbrc-rte": {
+  "hash": "633f9b87ab6b768d",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "heart-failure": {
+  "hash": "e813b7b1e892d32d",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "hemodynamic-normals": {
+  "hash": "92a02ca4b0bf6c1e",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "infection-prevention": {
+  "hash": "35b9c3bd9a9d4fa1",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "neonatal-resuscitation": {
+  "hash": "3700cb6059a5b8d1",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "neuro-icp-stroke": {
+  "hash": "abb4f915ef5cb0fa",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "neuromuscular-crisis": {
+  "hash": "06dc01322a493b28",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "ob-emergencies": {
+  "hash": "d7e7437a692602c4",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "pa-catheter": {
+  "hash": "148d97664eed3b8c",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "pediatric-emergencies": {
+  "hash": "3e44468beea6a407",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "post-arrest-care": {
+  "hash": "09beec8268ac5fd8",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "pulmonary-embolism": {
+  "hash": "3f9955bf696f8d35",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "rhythm-gallery": {
+  "hash": "91ddc29d90e2753d",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "rsi-airway": {
+  "hash": "a7818999650e2646",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "rt-aerosol-humidity": {
+  "hash": "d8a819a1995e102c",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "rt-airway-clearance": {
+  "hash": "b7040f4e06dab36d",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "rt-bronchoscopy-thoracentesis": {
+  "hash": "489fea696f59fe41",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "rt-equipment-patient-data": {
+  "hash": "543217625fda01dc",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "rt-neo-peds": {
+  "hash": "78f89ce1743d4039",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "rt-niv-interfaces": {
+  "hash": "c80cb26a69ddab73",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "rt-pft-oxygen": {
+  "hash": "34595808214fb89f",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "rt-pneumonia-lung-infections": {
+  "hash": "550b2a72bccfeaf2",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "rt-sleep-chronic-outpatient": {
+  "hash": "ed2079f3fa46485a",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "rv-failure-ph": {
+  "hash": "ff74a7fb8b23d7f9",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "sedation-scales": {
+  "hash": "5c21c4aff8702e5e",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "shock-types": {
+  "hash": "1be2e51a40ae0488",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "toxicology-antidotes": {
+  "hash": "cb029c9f42b2c77e",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "trauma-primary-survey": {
+  "hash": "41c92804d172f56f",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "vent-liberation": {
+  "hash": "9052ec1a932cda82",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "vent-modes": {
+  "hash": "d2912485bbb6a415",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ }
+}

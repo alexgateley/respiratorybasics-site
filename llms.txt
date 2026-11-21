@@ -1,0 +1,30 @@
+# Respiratory Basics
+
+> Respiratory Basics is a free exam-prep app from Grip Theory LLC for the NBRC Respiratory Therapy Exam and ACLS, with 1,551 practice questions, a rationale for every answer choice, and mock exams built to the official test plans.
+
+- Publisher: Grip Theory LLC
+- Clinical reviewer: Alex G, BSN, RN, CEN, CCRN, CMC, NREMT-P (https://icubasics.com/about.html)
+- Price: free today, with no account and no ads. A paid plan, Pro, starts in January 2027; the question of the day, the daily plan, the Reference and one mock exam stay free.
+- Platforms: Android (Google Play) and any web browser; the iPhone app is coming
+- Practice questions: 1,551, each with a rationale for every answer choice
+
+## Exams
+- NBRC Respiratory Therapy Exam: 1,000 practice questions. Exam guide: https://respiratorybasics.com/sheets/guide-nbrc-rte.html. Sample questions: https://respiratorybasics.com/practice/nbrc-rte.html
+- ACLS: 551 practice questions. Exam guide: https://respiratorybasics.com/sheets/guide-acls.html. Sample questions: https://respiratorybasics.com/practice/acls.html
+
+## Main pages
+- [Home](https://respiratorybasics.com/): what the app covers
+- [Web app](https://respiratorybasics.com/app/): the full question bank, free in any browser
+- [Sample questions](https://respiratorybasics.com/practice/): questions with answers and rationales
+- [Cheat Sheets and exam guides](https://respiratorybasics.com/sheets/): study summaries with sources
+- [Reference](https://respiratorybasics.com/reference/): every drug, calculator, algorithm, lab group and quick card set on its own page
+
+## Cheat Sheets
+
+
+## Reference
+- [Drugs](https://respiratorybasics.com/drugs/): 35 pages. Monographs: indications, doses, mechanism, pharmacokinetics and cautions
+- [Calculators](https://respiratorybasics.com/calculators/): 39 pages. Working calculators with the formula and how to read the result
+- [Algorithms](https://respiratorybasics.com/algorithms/): 14 pages. Bedside algorithms step by step, with every branch
+- [Lab values](https://respiratorybasics.com/labs/): 10 pages. Reference ranges in US and SI units
+- [Quick cards](https://respiratorybasics.com/cards/): 7 pages. Bedside tables and checklists
